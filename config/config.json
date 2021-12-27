@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x403d5443ddd5c9a63404d39a9919a3d669042ffe",
+  "SCAN_LINK": "https://polygonscan.com/address/0x403d5443ddd5c9a63404d39a9919a3d669042ffe",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Alienish",
+  "SYMBOL": "AISH",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 500000000000000000,
+  "DISPLAY_COST": 0.5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/alienish",
+  "SHOW_BACKGROUND": true
+}
